@@ -10,7 +10,3 @@
 .fieldset {
   margin-bottom: 20px;
 }
-
-.fieldset:last-child {
-  margin-bottom: 100px;
-}
